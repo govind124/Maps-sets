@@ -31,7 +31,7 @@ for (let i = 0; i < p.length; i++) {
             count++;
             p.splice(b, 1);
             b--;
-        }
+       }
     }
     newMap.set(p[i], count);
 }
