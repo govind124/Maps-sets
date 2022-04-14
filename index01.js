@@ -13,7 +13,7 @@ function removeDuplicate(str,n){
     }
     console.log(str1);
 }
-removeDuplicate("aabbccddeeff")
+removeDuplicate("ppuusshhppaa")
 
 
 //Problem 2
